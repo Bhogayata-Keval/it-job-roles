@@ -1,4 +1,6 @@
 # it-job-roles
 
-```import showRandomJobRole from "it-job-roles"
-showRandomJobRole("test")```
+```
+import showRandomJobRole from "it-job-roles"
+showRandomJobRole("test")
+```
