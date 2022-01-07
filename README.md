@@ -2,5 +2,5 @@
 
 ```
 import showRandomJobRole from "it-job-roles"
-showRandomJobRole()
+showRandomJobRole("random")
 ```
