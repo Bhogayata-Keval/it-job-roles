@@ -1,0 +1,22 @@
+{
+  "name": "it-job-roles",
+  "version": "1.0.0",
+  "description": "this package contains function to show random it job roles and their work responsibilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhogayata-Keval/it-job-roles.git"
+  },
+  "keywords": [
+    "job-roles"
+  ],
+  "author": "Keval Bhogayata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhogayata-Keval/it-job-roles/issues"
+  },
+  "homepage": "https://github.com/Bhogayata-Keval/it-job-roles#readme"
+}
