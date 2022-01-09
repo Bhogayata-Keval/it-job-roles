@@ -1,7 +1,7 @@
 # it-job-roles
 
 `fetchRandomJobRole()`
-The result will be in the form of json array including 2 properties: role & description
+The result will be in the form of json object including 2 properties: role & description
 
 ```
 const itJobRoles = require("it-job-roles");
